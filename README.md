@@ -3,7 +3,7 @@ Fetch issues from github
 
 ## Example
 Fetch last 5 issues from django repository 
-./issues django django 5
+`./issues django django 5`
 
 ## Installation
 
