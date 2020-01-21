@@ -1,6 +1,9 @@
 # Issues
+Fetch issues from github
 
-**TODO: Add description**
+## Example
+Fetch last 5 issues from django repository 
+./issues django django 5
 
 ## Installation
 
